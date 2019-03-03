@@ -1,0 +1,676 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+   font-family: 'Open Sans', sans-serif !important;
+    src : url('../font/OpenSans-SemiBold.html');
+}
+div.panel {
+    display: none;
+}
+
+div.panel.show {
+    display: block !important;
+}
+
+.header
+{
+	box-shadow:1px 1px 10px #666;
+	padding:5px 0;
+}
+.top-header
+{
+	background:#333;
+	color:#fff;
+	text-align:right;
+}
+.top-header ul
+{
+	list-style-type:none;
+	margin:0;
+}
+.top-header ul li
+{
+	display:inline;
+	padding:4px 7px;
+}
+.top-header ul li a
+{
+	text-decoration:none;
+	font-size:15px;
+	text-transform:uppercase;
+	font-weight:400;
+	letter-spacing:.8px;
+}
+.top-header ul li:first-child
+{
+	background:#0db7c4;
+}
+.top-header ul li:nth-child(2)
+{
+	background:#f85b5b;
+}
+.top-header ul li a:hover 
+{
+	background:none;
+}
+.top-header ul li:not(.nohover):hover {  
+    background: #0db7c4;
+}
+
+.top-header p
+{
+		margin:6px 0;
+		text-align:left;
+		color:#fff;
+                font-weight:600;
+}
+.navbar
+{
+	margin-bottom:4px !important;
+}
+.fa-user
+{
+	color:#f85b5b;
+	margin-left:43px;
+}
+.dropdown .fa-sign-in
+{
+	color:#0db7c4;
+	margin-left:5px;
+}
+.fa-bell
+{
+	color:#0db7c4;
+	margin-left:5px;
+	margin-top:5px;
+}
+.navbar-brand
+{
+	padding:10px 15px 5px 15px !important;
+}
+.item img
+{
+	width:100%;
+}
+.left-btn
+{
+	position:absolute;
+	top: 279px;
+        right: 4px;
+	text-transform:uppercase;
+}
+.navbar-nav .dropdown-menu a:hover
+{
+	background:#f1f1f1 !important;
+}
+.navbar-nav a
+{
+	color:#000;
+}
+.navbar-nav a:hover
+{
+	color:#000;
+}
+.navbar-nav li:hover, .navbar-nav li a:hover, .navbar li:hover a
+{
+	background:none !important;
+}
+.dropdown-menu
+{
+	padding:0 !important;
+	border:0 !important;
+}
+.menu
+{
+	background:#d94f4f;
+}
+ul{
+  list-style: none;
+  padding: 0;
+}
+
+ul li {
+  display: block;
+  position: relative;
+  float: left;
+}
+
+/* This hides the dropdowns */
+
+
+li ul { display: none; }
+
+ul li a {
+  display: block;
+  padding: .3em 1.1em;
+  text-decoration: none !important;
+  white-space: nowrap;
+  color: #fff;
+}
+ul li a:active{
+    background:#0db7c4 !important; 
+}
+ul li a:hover { background: #0db7c4; color:#fff;}
+ul li a:focus{
+	color:#fff;
+	border:none;
+}
+/* Display the dropdown */
+
+
+li:hover > ul {
+  display: block;
+  position: absolute;
+}
+
+li:hover li { float: none; }
+
+li:hover a { background: #0db7c4; }
+
+li:hover li a:hover { background: #0a99a4; }
+
+.main-navigation li ul li { border-top: 0; z-index:1; }
+
+/* Displays second level dropdowns to the right of the first level dropdown */
+
+
+ul ul ul {
+  left: 100%;
+  top: 0px;
+}
+
+/* Simple clearfix */
+
+
+
+ul:before,
+ul:after {
+  content: " "; /* 1 */
+  display: table; /* 2 */
+}
+
+ul:after { clear: both;} 
+.my-container
+{
+	width:92%;
+	margin:0 auto;
+}
+.helpDesk-inner
+{
+	background:url(../img/helpdesk.jpg);
+	 padding:15px 20px;
+	 background-size:cover;
+	 border-radius:7px;
+	 border:2px solid #619797;
+}
+.helpDesk-inner h3
+{
+	color: #880e4f;
+    font-weight: 600;
+    letter-spacing: 1px;
+}
+
+.helpDesk-inner p
+{
+	color:#333;
+	font-weight:400;
+	font-size:16px;
+	text-align:justify;
+}
+.fa-phone
+{
+	height:30px;
+	width:30px;
+	padding:8px;
+	border-radius:50%;
+}
+.marquee
+{
+	padding:0 0 10px 0; margin-bottom:10px; box-shadow:1px 1px 10px #ccc; border-radius: 7px; height:300px;
+}
+.marquee h4
+{
+	padding:2px 7px 10px 7px;
+	background:#26b0b0;
+	margin:0;
+	color:#fff;
+}
+.marquee-content
+{
+	padding:15px 12px 2px 12px;
+}
+.fa-bullhorn
+{
+	margin-top:0;
+	font-size:23px !important;
+}
+.marquee p:first-child
+{
+	font-size:13px;
+	text-align:justify;
+        color:#000;
+}
+.marquee p
+{
+    font-size: 22px; color: #df534f;
+}
+.marquee hr
+{
+	margin:15px 0;
+}
+.marquee p span
+{
+	color:#000; font-weight:400; font-size:17px;
+}
+.TabbedPanelsTab
+{
+		font-size:18px !important;
+		font-weight:100 !important;
+		background-color:#535d60 !important;
+		color:#fff;
+}
+.TabbedPanelsTab:hover
+{
+		background-color:#1a7d9b !important;
+		color:#fff;
+}
+.TabbedPanelsTabSelected
+{
+	color:#fff !important;
+	background-color:#044457 !important;
+}
+.item h3
+{
+	position:absolute;
+	top:190px;
+	left:620px;
+	color:#fff;
+	text-align:center;
+	font-weight:400;
+}
+.accordion {
+    background-color:#fff;
+    color: #000;
+    cursor: pointer;
+    padding: 10px;
+    width: 100%;
+    border: none;
+    text-align: left;
+    outline: none;
+    font-size: 13px;
+	font-weight:600;
+    transition: 0.4s;
+    border-bottom: 1px solid #f2efef;
+}
+
+
+.panel {
+    padding: 0 18px;
+    display: none;
+    background-color: white;
+    overflow: hidden;
+	transition: 0.4s;
+}
+.TabbedPanelsContent  a{
+    text-decoration: none;
+}
+.TabbedPanelsContent a:hover{
+    text-decoration: none;
+    color:#f00;
+}
+.active
+{
+    background: #0db7c4;
+}
+/*.myTab-tabs>li>a 
+{
+	color:#000;
+	padding:10px 60.4px !important;
+	background: #535d60 !important;
+    color: #fff !important;
+}
+.myTab>li>a:focus, .myTab>li>a:hover
+{
+	background-color:#1a7d9b !important;	
+}
+.myTab-tabs>li.active>a
+{
+	background-color:#044457 !important;
+	color:#fff !important;
+}*/
+.nav>li>a:focus, .nav>li>a:hover
+{
+	color:#000;
+	background-color:#fafafa !important;
+	border:none !important;
+}
+.fa-level-down 
+{
+	color:#d9534f;
+}
+.footer
+{
+	background:#898787;
+	padding:15px 0 0 0;
+}
+.footer a
+{
+	color:#fff;
+	text-decoration:none;
+	font-size:13.2px;
+}
+.footer a:hover
+{
+	color:#fff;
+	font-size:13.6px;
+	transition:.1s;
+	text-decoration:none;
+}
+.footer p
+{
+	text-align:justify;
+	font-size:13px;
+	color:#fff;
+	line-height:100%;
+}
+.accordion .clearfix
+{
+	border-bottom:1px dotted #000;
+}
+/*-------------------------------login page css---------------------*/
+
+.new-apply a:hover
+{
+    color:#f00;
+    text-decoration: none;
+}
+.steps {
+    display: block;
+    background: #fff;
+    text-align: center;
+    box-shadow:1px 1px 10px #ccc;
+	padding:20px;
+}
+.connector{
+    display:block;
+    text-align:center;	
+}
+
+.connector .lngline{
+    width:1px;
+    height:5px;
+    background:#333;
+    margin:0 36px;
+    padding:0;
+    display:block;
+}
+.connector .circle{
+    width:11px;
+    height:11px;
+    border:1px solid #333;
+    margin:0 31px;
+    padding:0;
+    display:block;
+    border-radius:50%;
+    -webkit-border-radius:50%;
+    -o-border-radius:50%;
+    -ms-border-radius:50%;
+    -moz-border-radius:50%;
+
+    display:block;
+}
+
+.steps p{
+    display:block;
+    padding:0;
+    margin:0;
+    font-size:18px;
+
+    text-align:left;
+}
+.steps p i{
+    margin-right:5px;
+    font-size:24px;
+    border:1px solid #333;
+    width:40px;
+    text-align:center;
+    line-height:34px;
+    height:40px;
+    border-radius:50%;
+    -webkit-border-radius:50%;
+    -o-border-radius:50%;
+    -ms-border-radius:50%;
+    -moz-border-radius:50%;
+}
+.book_pts{
+    width:55%;
+    padding:15px;
+	margin:0 auto;
+	
+}
+.schemes-dropdown
+{
+	margin:0 auto;
+}
+.schemes-dropdown select
+{
+	border:none;
+	box-shadow:1px 1px 10px #cdcbcb;
+	border-radius:5px;
+	width:100%;
+	height:40px;
+	color:#000;
+	padding:5px 20px;
+}
+.schemes-dropdown select:hover, .schemes-dropdown select:focus
+{
+	box-shadow:2px 2px 10px #605e5e;
+	border:none !important;
+}
+.login-form
+{
+	text-align:center;
+	padding:20px 46px;
+	box-shadow:1px 1px 10px #ccc;
+	margin-bottom:20px;
+	border-radius:5px;
+}
+
+form .fa-user {
+		position: absolute !important;
+		left: 370px !important;
+		top: 83px !important;
+		font-size: 18px;
+		color:#0db7c4 !important;
+	}
+form .fa-lock {
+		position: absolute !important;
+		left: 412px !important;
+    	top: 134px !important;
+		font-size: 18px;
+		color:#0db7c4 !important;
+	}
+
+/*-------------------------------about page css---------------------*/
+
+.aboutContent
+{
+    padding: 40px;
+    text-align: justify;    
+}
+
+.aboutContent h2{
+    color: #eaa312;
+    margin-bottom: 33px;
+}
+.aboutContent h4
+{
+    color:#178f8f;
+    margin-top: 20px;
+}
+.benefit .fa-circle{
+    font-size: 8px;
+}
+.benefit p
+{
+    padding-left:20px;
+}
+/*---------------------------------Faq css---------------------*/
+
+.accordion-2{
+    width:100%;
+    margin:0 auto;
+}
+
+/* accordion heading */
+.accordion-2 h1{
+    line-height: 150%;
+    font-size:16px;
+    font-weight: normal;
+    text-align: left;
+    margin-bottom:0px;
+    margin-top:10px;
+    padding:8px 10px 8px 18px;
+    border-radius:3px;
+	color:#0d848d;
+}
+.accordion-2 h1:hover{
+    cursor:pointer;
+}
+
+/* accordion-2 section content */
+.accordion-2 div{
+    display:none;
+    padding:8px 10px 8px 18px;
+    line-height:20px;
+    border-radius:3px;
+	width:100%;
+}
+.accordion-content p
+{
+    line-height: 150%;
+}
+/*-------------------------------error css---------------------*/
+.ërror
+{
+    box-shadow: 1px 1px 10px #e4e4e4; padding: 80px 0;
+    margin: 90px 0 0 0;
+}
+.ërror p
+{
+    text-align: center;
+    font-size: 18px;
+}
+.ërror p a
+{
+    color:#0db7c4;
+}
+.error-heading{
+    color:#be1717; text-align:center; font-weight:400; font-size:35px; margin:30px 0 0 0;
+}
+.error-heading2{
+    color:#be1717; margin:0 0 30px 0;
+}
+
+/*-------------------------------media query---------------------*/
+@media screen and (max-width: 1920px) {
+   .main-navigation{
+	       width: 60%;
+    margin: 0 auto;
+  }
+  .item h3 {
+    top: 264px;
+    left: 872px;
+}
+  
+}
+
+@media screen and (max-width: 1600px) {
+   .main-navigation{
+	       width: 60%;
+    margin: 0 auto;
+  }
+  .item h3 {
+    top: 216px;
+    left: 720px;
+}
+  
+}
+@media screen and (max-width: 1440px) {
+   .main-navigation{
+	       width: 60%;
+    margin: 0 auto;
+  }
+  
+}
+
+@media screen and (max-width: 1366px) {  
+ .item h3 {
+    top: 193px;
+    left: 628px;
+}
+}
+
+@media screen and (max-width: 1280px) {  
+  .sidenav {
+    top: 180px;
+}
+ .item h3 {
+    top: 180px;
+    left: 578px;
+}
+.main-navigation{
+    width: 72%;
+    margin: 0 auto;
+  }
+  .left-btn {
+    top: 215px;
+}
+.marquee p
+{
+    font-size: 17px;
+}
+  
+}
+@media screen and (max-width: 768px) {  
+    .main-navigation{
+        width:100%;
+    }
+    ul li a {
+    padding: .3em 1.2em;
+    }
+    .footer p
+    {
+        text-align: center;
+    }
+}
+
+@media screen and (max-width: 420px) {  
+    .main-navigation{
+        width:100%;
+    }
+    ul li a {
+    padding: .3em .2em;
+    font-size: 9px;
+    }
+}
+
+@media screen and (max-width: 340px) {  
+    ul li a {
+    padding: .3em .2em;
+    font-size: 8.3px;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+

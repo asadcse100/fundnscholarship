@@ -1,0 +1,142 @@
+FAQ NSP
+Frequently Asked Questions
+Question 1: Who are eligible to apply for Scholarship Schemes?
+Answer : Students fulfilling the Scheme guidelines of various Ministries are eligible to
+apply for these scholarships. These are available on the Home Page of the Portal.
+Question 2 : What is the last date for submitting applications online?
+Answer : Closure dates for acceptance of various scholarship applications are available in
+National Scholarships Portal.
+Question 3 : How can I apply online for scholarship?
+Answer : In order to apply online, please visit the website through URL
+www.scholarships.gov.in
+Question 4 : How to submit the online application? Should I need the user id and password
+to apply for scholarship?
+Answer : Applying procedures for Scholarship Schemes for both Fresh and Renewal are
+given below:
+Fresh:Student have to Click on the option “Student Login”, on the home page of National
+Scholarships Portal. Fill up the application as per the instructions given by the system then click
+on save button. After saving, student will get a “Temporary ID”. The system will instruct the
+applicant to submit his/her Temporary ID and date of birth to fill subsequent details. Once
+registration is complete on click of submit button, a Permanent Registration ID is generated
+which can be used for Renewal and tracking the status of application
+Renewal: Renewal Students have to apply with their Application Id and Date of Birth which they
+registered previous year. Student can also use Forgot Application ID to retrieve their ID. Only
+those students would be able to Renew who had actually got the scholarships payments last
+year from NSP 1.0.
+Question 5 : Can I edit the information already saved and up-to what time?
+Answer : All the information can be edited till the closure of application form. After final
+submission, your application will be forwarded to the next level and application hereby cannot
+be edited.
+Question 6 : Which fields in the application form are mandatory ?
+Answer: Fields provided with red asterisk (*) mark are mandatory fields.
+Question 7 : What happens, if I detect mistakes after forwarding the applications to the next
+level?
+Answer : You should separately inform the mistakes detected by you to the
+Institute/District/Region/State. The software provides facility at the level of the Institute & State
+to edit & correct limited information.
+Question 8 : Which fields Institute/State can edit ?
+Answer : The Fields which can be edited are : Gender,Religion,Category,Profession,Annual
+Income,Aadhar Number,Disability,Day Scholar/Hostlar,Mode of Study,IFSC Code,Account
+No.,Admission Fees and Tution Fees.However, corrections made by the Institute/State, if any,
+would be conveyed instantly to the student through SMS/email.
+Question 9 : Do I have to fill up the online application in one sitting ?
+Answer : No. You can fill up the online application in as many sittings as you wish, until
+you are satisfied that you have entered all desirable fields correctly. The software provides
+facility to save your application at every stage.
+Question 10 : What is UID number/Aadhaar Number?
+Answer : UID number otherwise known as ‘Aadhaar’ number is Unique Identification
+Number given by Unique Identification Authority of India (UIDAI). Aadhaar is unique 12 digit
+number assigned after de-duplication of biometrics.
+Question 11 : Do I need to get my Aadhaar Card to apply for Scholarship ?
+Answer : Aadhaar No. is not Mandatory for the Students in order to Register and fill up
+the application form online. Students can apply for Scholarship without entering the Aadhaar no.
+but in that case they have to enter Aadhaar Enrollment Id. For the States of Aasam, Meghalya
+and Mizoram Aadhar Number is not mandatory.
+Question 12 : Is there any permanent ID? How will it be communicated to me ?
+Answer : Yes. An Application ID (Permanent ID) will be provided to the candidate once
+his/her Registration is done. It will be conveyed to candidates through SMS and e-mail. Students
+should memorize their Application ID as it will be required while applying for Fresh/renewal
+scholarship.
+Question 13 : Can I apply as a Fresh if I am a Renewal candidate ?
+Answer : No, you cannot apply as a fresh if you are a Renewal candidate. Your application
+will be rejected in that case.
+Question 14 : What should I do, if I do not find my institute name in the drop-down menu ?
+Answer : You should immediately approach the institute to contact with the nodal officer
+of the State where the institute is located. You can also approach the Nodal Officer of that State
+directly through e-mail under intimation to the Ministry. If your institute is an eligible institution,
+the State Government concerned would enter it into the database and then you can apply.
+Question 15 : How do I know the name and address of Nodal Officer/ State Department of my
+State ?
+Answer : The name and contact details of the Nodal Officer/State Department of all
+States/UTs are available in “Services->Know your State Nodal Officer” option.
+Question 16 : How to check the status of my application ?
+Answer : Student can check the status of Online Application by submitting his/her
+Permanent id and Date Of Birth and open the link “Check your Status”.
+Question 17 : How to view the details of a particular scheme ?
+Answer : You may click on Guidelines link of particular Scheme displaying in On-Boarded
+schemes section on the Home page.
+Question 18 : How to know the deadline for verification of application at
+Institute/District/State Level ?
+Answer : The deadline for verification of application at Institute/District/State Level will
+be displayed on portal as and when the dates are being closed.
+Question 19 : Would there be a procedure for publishing advertisement by States which may
+be put on the portal?
+Answer : This procedure would be widely published as soon as the modalities are
+finalized.
+Question 20 : How to overcome the problem of Login even after getting system generated
+Application ID and DOB as Password ?
+Answer : The “Forgot Application Id” option may be used and this problem can be
+overcome by using Search by Bank Account Number and Search by Mobile Number.
+Question 21 : For Renewal cases, the Login data ie Application ID and DOB of previous year is
+showing an error “Invalid User Name/ Password”. What is the remedy ?
+Answer : The “Forgot Application Id” option may be used and this problem can be
+overcome by using Search by Bank Account Number and Search by Mobile Number.
+Question 22 : There is no link available on NSP2.0 portal take care of registration of new
+educational Institute.
+Answer : The facility to create new Institutes is provided to the State Nodal Officers.
+Question 23 : what is the prescribed format available in NSP2.0 for uploading various type of
+documents ?
+Answer : The format of document which can be uploaded is provided in the Document
+Upload Popup Screen.
+Question 24 : How to handle the issue of length of Bank Account Number being restricted to
+15 characters in NSP2.0 where the bank provides 16 or 18 characters ?
+Answer : The length of the Account Number has been increased sufficiently.
+Question 25 : In case applicant is unable to select Block/Taluk, how to overcome this issue ?
+Answer : The Block/Taluk has made Optional.
+Question 26 : Telephone helpline Number 0120-6619540 given on NSP2.0 portal is not
+functioning properly and lot of calls are being put on hold ?
+Answer : The Telephone Helpline is been strengthened. More nodes are been added and
+working hours are also being increased.
+Question 27 : Would the Login credentials be sent by SMS?
+Answer : Yes. The Application Id and Password sent by SMS.
+Question 28 : How to know the contact details of various Nodal Officers?
+Answer : The Scheme wise details of State Nodal Officers is available under the Services
+Link of the NSP Portal.
+Question 29 : What is the remedy in case some scholarship scheme is not coming in drop
+down list ?
+Answer : As per the inputs provided by the student, if these do not fit into the Guidelines,
+then Scholarship cannot be provided.
+Question 30 : How to track the status of my application ?
+Answer : An option “Check Your Status” is available once you login with Application Id and
+DOB.
+Question 31 : How to know about the various services available on the portal ?
+Answer : The complete User Manual, Contact Details of Scheme wise State Nodal Officers
+and other services are available under the link “SERVICES” on the Home Page of the Portal .
+Question 32 : Is the usage of Digital Signature Mandatory ?
+Answer : The use of Digital Signature is not mandatory at registration / verification stage
+of NSP Application .
+Question 33 : If I know the UDISE code of my Institute but Address and Location is not known
+or vice versa .how to resolve this problem ?
+Answer : The school location and UDISE code and vice versa can be known from the
+below link http://www.mdm-mis.nic.in/MDM/school_dise_code_scholarship.aspx
+Question 34 : What kind of search facility is provided to students for Institute, District during
+registration process ?
+Answer : A comprehensive search facility including partial name search is available at the
+Institution name Level. A drop down list of districts is also available.
+Question 35 : What documents are to be uploaded on NSP 2.0 while applying for the
+scholarships ?
+Answer : Documents are required to be uploaded only for the Scholarship Amount more
+than ?50000 per annum
+Question 36 : What are the fields which are not editable at all ?
+Answer : Aadhaar & Enrollment Id are not editable at any stage. these should be filled
+very carefully. 
